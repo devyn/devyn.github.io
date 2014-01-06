@@ -197,3 +197,9 @@ article {
     min-height: 0;
   }
 }
+
+@media (max-width: 399px) {
+  main .content-padding {
+    padding: 15px;
+  }
+}
