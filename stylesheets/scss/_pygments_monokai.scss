@@ -1,3 +1,9 @@
+/**
+ * This is a modified version of monokai.
+ * Monokai looks great with C-like languages, but operator and type-heavy
+ * languages like Haskell don't like it so much.
+ */
+
 .hll { background-color: #49483e }
 .c { color: #75715e } /* Comment */
 .err { color: #960050; background-color: #1e0010 } /* Error */
@@ -6,10 +12,10 @@
 .n { color: #f8f8f2 } /* Name */
 .o { color: #f92672 } /* Operator */
 .p { color: #f8f8f2 } /* Punctuation */
-.cm { color: #75715e } /* Comment.Multiline */
-.cp { color: #75715e } /* Comment.Preproc */
-.c1 { color: #75715e } /* Comment.Single */
-.cs { color: #75715e } /* Comment.Special */
+.cm { color: #85815e } /* Comment.Multiline (modified) */
+.cp { color: #85815e } /* Comment.Preproc (modified) */
+.c1 { color: #85815e } /* Comment.Single (modified) */
+.cs { color: #85815e } /* Comment.Special (modified) */
 .ge { font-style: italic } /* Generic.Emph */
 .gs { font-weight: bold } /* Generic.Strong */
 .kc { color: #66d9ef } /* Keyword.Constant */
@@ -17,7 +23,7 @@
 .kn { color: #f92672 } /* Keyword.Namespace */
 .kp { color: #66d9ef } /* Keyword.Pseudo */
 .kr { color: #66d9ef } /* Keyword.Reserved */
-.kt { color: #66d9ef } /* Keyword.Type */
+.kt { color: #c6b9ef } /* Keyword.Type (modified) */
 .ld { color: #e6db74 } /* Literal.Date */
 .m { color: #ae81ff } /* Literal.Number */
 .s { color: #e6db74 } /* Literal.String */
