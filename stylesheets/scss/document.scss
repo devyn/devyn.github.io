@@ -4,6 +4,7 @@
 
 $sans-serif-font: 'Open Sans', sans-serif;
 $serif-font: 'Merriweather', serif;
+$monospace-font: 'Droid Sans Mono', monospace;
 
 html, body {
   height: 100%;
@@ -17,14 +18,14 @@ body {
 }
 
 pre, code {
-  font-family: monospace;
+  font-family: $monospace-font;
 }
 
 pre {
-  margin: 0.75em 0;
-  padding: 1em;
-  @include vendor-prefix(border-radius, 10px);
-  @include vendor-prefix(box-shadow, inset 0 0 25px #383838);
+  margin: 1.5em 0;
+  border: 1px solid #666666;
+  padding: 0.75em;
+  font-size: 14px;
 
   @extend .hll;
 
