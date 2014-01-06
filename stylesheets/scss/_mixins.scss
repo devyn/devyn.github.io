@@ -1,0 +1,7 @@
+@mixin vendor-prefix($property-name, $value...) {
+  -webkit-#{$property-name}: $value;
+  -moz-#{$property-name}: $value;
+  -ms-#{$property-name}: $value;
+  -o-#{$property-name}: $value;
+  #{$property-name}: $value;
+}

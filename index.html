@@ -1,25 +1,12 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>g.devyn.me</title>
-    <style>
-      body {
-        background-color: #ddd;
-        color: #333;
-      }
-      main {
-        background-color: #fff;
-        border-radius: 5px;
-        text-align: center;
-        height: 1.2em;
-        width: 10em;
-        margin: auto;
-      }
-    </style>
-  </head>
-  <body>
-    <main>
-      Hello, world!
-    </main>
-  </body>
-</html>
+---
+title: ~devyn
+language: en
+layout: document
+---
+{% for post in site.posts %}
+  <article class="excerpt">
+    <div class="date">{{ post.date | date_to_long_string }}</div>
+    <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+    {{ post.excerpt }}
+  </article>
+{% endfor %}
