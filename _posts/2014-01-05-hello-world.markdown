@@ -64,15 +64,18 @@ eros ac porta adipiscing, quam diam laoreet libero, a rutrum arcu eros ut felis.
 Morbi arcu velit, congue sed lectus a, adipiscing laoreet magna. Ut at auctor
 elit. Etiam sagittis lectus id elit mollis volutpat.
 
-Maecenas bibendum elementum interdum. Proin elementum mollis eros, vel dignissim
-neque accumsan quis. Praesent ultrices laoreet purus vestibulum placerat. Duis
-metus eros, malesuada rutrum nunc quis, fringilla hendrerit tortor. Vivamus
-sapien tortor, malesuada id mollis sit amet, sodales nec elit. Praesent
-fringilla id elit ut placerat. Praesent non mauris porta dolor ultrices dictum.
-Proin vel ante in massa eleifend commodo eu sit amet sem. Quisque placerat massa
-sit amet sagittis lacinia. Fusce sollicitudin risus adipiscing, congue diam
-quis, vestibulum dui. Sed hendrerit tellus eu enim placerat pellentesque.
-Praesent tempor fermentum purus quis viverra.
+> Maecenas bibendum elementum interdum. Proin elementum mollis eros, vel
+> dignissim neque accumsan quis. Praesent ultrices laoreet purus vestibulum
+> placerat. Duis metus eros, malesuada rutrum nunc quis, fringilla hendrerit
+> tortor. Vivamus sapien tortor, malesuada id mollis sit amet, sodales nec elit.
+> Praesent fringilla id elit ut placerat. Praesent non mauris porta dolor
+> ultrices dictum.  Proin vel ante in massa eleifend commodo eu sit amet sem.
+> Quisque placerat massa sit amet sagittis lacinia. Fusce sollicitudin risus
+> adipiscing, congue diam quis, vestibulum dui. Sed hendrerit tellus eu enim
+> placerat pellentesque.  Praesent tempor fermentum purus quis viverra.
+>
+> --- <cite>[De finibus bonorum et
+> malorum](http://en.wikipedia.org/wiki/De_finibus_bonorum_et_malorum)</cite>
 
 Aenean condimentum posuere lacus, pellentesque ornare lorem interdum eu. Vivamus
 vehicula mattis mauris in consequat. Nulla aliquam consequat laoreet. Ut
