@@ -2,7 +2,9 @@
 layout: document
 ---
 <article>
-  <div class="date">{{ page.date | date_to_long_string }}</div>
-  <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+  <header>
+    <div class="date">{{ page.date | date_to_long_string }}</div>
+    <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+  </header>
   {{ content }}
 </article>

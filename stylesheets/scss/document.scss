@@ -176,6 +176,24 @@ main {
       font-style: italic;
     }
   }
+
+  footer {
+    margin-top: 1em;
+
+    nav.pagination {
+      text-align: right;
+
+      > * {
+        display: inline-block;
+      }
+
+      > * + * {
+        border-left: 1px solid #999999;
+        padding-left: 0.5em;
+        margin-left: 0.5em;
+      }
+    }
+  }
 }
 
 article {
