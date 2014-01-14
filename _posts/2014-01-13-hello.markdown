@@ -1,0 +1,8 @@
+---
+title: Hello
+language: en
+layout: post
+---
+
+Welcome to my new blog. I'll try to produce some content soon. In the mean time,
+why not look at my [GitHub](https://github.com/devyn)?
