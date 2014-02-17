@@ -12,7 +12,7 @@ layout: post
 
 The usual latin-based letters are generally used in my orthography. I add four
 letters and one stress sign. This is a list of all the letters along with the
-representation of the sounds they make in contrast to the usual ones.
+representation of the sounds they make in contrast to the usual ones:
 
     ŭ = [w]
     ĭ = [j]
@@ -42,7 +42,7 @@ syllables of the brivla are tagged with the stress markers (i.e. \`).
 > kutybù'i .i mu'a «lu .iŭicalocàbdeimipènmilopèndo li'u»
 
 If you use these orthographic rules, it is always possible to omit the spaces.
-For example, {.iŭicalocàbdeimipènmilopèndo}.
+For example, \{.iŭicalocàbdeimipènmilopèndo\}.
 
-*Note that the above is: {.i .ui ca lo cabdei mi penmi lo pendo} in the
+*Note that the above is: \{.i .ui ca lo cabdei mi penmi lo pendo\} in the
 standard orthography, or "Today, I meet a friend :)" in English.*
